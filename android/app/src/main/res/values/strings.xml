@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Monny</string>
+    <string name="title_activity_main">Monny</string>
+    <string name="package_name">com.monny.app</string>
+    <string name="custom_url_scheme">com.monny.app</string>
+</resources>

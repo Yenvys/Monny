@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Dark squircle background -->
+  <rect width="48" height="48" rx="14" fill="#09090b"/>
+  <rect x="0.5" y="0.5" width="47" height="47" rx="13.5" stroke="#27272a" stroke-width="1"/>
+  
+  <!-- Top Peeking Card (Platinum silver) -->
+  <rect x="15" y="13" width="18" height="10" rx="2" fill="#a1a1aa" opacity="0.85"/>
+  <rect x="17" y="15" width="4" height="2.5" rx="0.5" fill="#f4f4f5"/>
+  
+  <!-- Main Wallet Body (Crisp pure white with shadow) -->
+  <rect x="13" y="19" width="22" height="15" rx="3.5" fill="#ffffff" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.4))"/>
+  
+  <!-- Slit pocket divider -->
+  <path d="M13 24.5h22" stroke="#18181b" stroke-width="1" stroke-linecap="round"/>
+  
+  <!-- Clasp button on right -->
+  <circle cx="29" cy="26.5" r="2.2" fill="#18181b"/>
+  <circle cx="29" cy="26.5" r="0.9" fill="#ffffff"/>
+</svg>
