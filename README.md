@@ -44,15 +44,12 @@ Aplikasi ini 100% *offline-first*: semua data keuangan tersimpan aman di perangk
 
 ## ✨ Fitur Utama
 
-- 🖤 **Desain Monokrom Minimalis & Aksen Terarah**
-  - Palet warna hitam, putih, dan abu-abu netral yang modern dan bersih.
-  - Aksen fungsional: **Emerald (Hijau)** untuk arus kas masuk & kondisi finansial surplus; **Rose (Merah)** untuk arus kas keluar & defisit.
 - 🌓 **Mode Terang & Gelap (Dark / Light Theme)**
   - Tampilan otomatis mengikuti preferensi sistem atau dapat diganti secara instan dengan satu sentuhan.
   - Terintegrasi langsung dengan status bar native HP melalui plugin Capacitor.
 - 📅 **In-App Custom Date Picker & Dropdown**
-  - Kalender kustom monokrom dengan tombol *shortcut* cepat (*Hari Ini*, *Kemarin*, *2 Hari Lalu*) tanpa mengandalkan input HTML default browser yang kaku.
-  - Pemilihan filter bulan dan filter kategori kustom yang halus dan responsif.
+  - Kalender dengan tombol *shortcut* cepat (*Hari Ini*, *Kemarin*, *2 Hari Lalu*).
+  - Pemilihan filter bulan dan filter kategori.
 - 💳 **Manajemen Dompet & Sumber Dana Fleksibel**
   - Kelola saldo kas tunai, rekening bank, dan dompet digital (e-wallet).
   - Pantau total kekayaan bersih (*net balance*) secara *real-time*.
@@ -67,8 +64,6 @@ Aplikasi ini 100% *offline-first*: semua data keuangan tersimpan aman di perangk
 - 🔒 **Cadangan & Pemulihan Data (Export / Import JSON)**
   - Ekspor seluruh basis data transaksi ke file JSON untuk *backup*.
   - Pulihkan data kapan saja ke perangkat lain dengan mudah.
-- 🚫 **100% Bebas Emoji & Ikonik**
-  - Semua antarmuka menggunakan ikon SVG tajam dari **Lucide Icons**.
 
 ---
 
